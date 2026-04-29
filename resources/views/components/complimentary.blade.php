@@ -10,7 +10,6 @@
             </div>
             @endforeach
         </div>
-        <!-- tes komen aja  -->
 
     </div>
 </section>
